@@ -1,0 +1,12 @@
+inicio
+------
+Configuracion de nuestro proyecto
+npm init --yes
+
+Instalar el frameworks express
+npm i express
+
+npm i body-parser
+npm i morgan (ver solicitudes http)
+
+continuar en https://www.youtube.com/watch?v=3FGRqijmBWI&list=PLL0TiOXBeDaiaFOobfapYZ2ughvAnCTrW&index=5
